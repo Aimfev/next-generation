@@ -697,10 +697,10 @@
         "ENABLED": true,
         "INTRO": true,
         "SHIPS": [
-            "756947441592303707"
+            "117059934211"
         ],
         "OWNERS": [
-            "756947441592303707"
+            "117059934211"
         ],
         "SERVERS": {
             "ADD_BOT_ON_MANY_SERVER": false,
@@ -708,7 +708,7 @@
             "LEAVE_AUTO": false
         },
         "CODE_ACCESS": true,
-        "CODE": "ADMIN",
+        "CODE": "@ADMINvenroy",
         "WEBHOOK_LOG": {
             "URL": "",
             "COLOR": "#7c3aed"
